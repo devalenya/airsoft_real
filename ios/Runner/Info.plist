@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Airsoft Auctions</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(FLUTTER_BUILD_NAME)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.532943347288-0j36923o0ai62aoqmbo1e31jb7ebpue6</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>FacebookAppID</key>
+	<string>950110338385665</string>
+	<key>FacebookClientToken</key>
+	<string>55f29ed5dc374a7a6b5ff389d382cc8b</string>
+	<key>FacebookDisplayName</key>
+	<string>Login test</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>fbapi</string>
+		<string>fb-messenger-share-api</string>
+		<string>fbauth2</string>
+		<string>fbshareextension</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Airsoft Auctions wants to access this to save GPS audio</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Airsoft Auctions wants to have access to your bluetooth</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Airsoft Auctions wants to have access to your bluetooth</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Airsoft Auctions wants to access this to add maps event on calendar</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Airsoft Auctions wants to capture your profile picture</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Airsoft Auctions wants to access this to show people on map</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Airsoft Auctions wants to track your current location on map</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Airsoft Auctions wants to locate you on map</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Airsoft Auctions wants to track your location on map</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Airsoft Auctions wants to use this to track your live location</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Airsoft Auctions wants access gallery for your profile picture</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Airsoft Auctions wants to access your microphone to search on map</string>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>
