@@ -34,7 +34,7 @@ if (keystorePropertiesFile.exists()) {
 
 android {
     compileSdkVersion 33
-
+    namespace "com.airsoftauctions.app"
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
     }
